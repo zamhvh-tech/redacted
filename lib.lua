@@ -863,6 +863,7 @@ function redactlib.new(Name, Header, Icon)
             AnchorPoint = Vector2.new(0.5, 0.5),
             BackgroundTransparency = 0,
             BackgroundColor3 = Color3.fromRGB(50, 53, 59),
+			AutoButtonColor = false,
             Position = UDim2.new(0.5, 0, 0.5, 0),
             Size = UDim2.new(0, 700, 0, 475),
             ZIndex = 0,
